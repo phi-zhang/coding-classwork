@@ -1,3 +1,3 @@
 # coding-classwork
 
-This is where my Computer Science coursework projects will go when I get the time to clean up and upload them.
+These are some pieces of code I've written for my coursework for Computer Science classes.
